@@ -26,7 +26,6 @@ public class PomArchitecture {
 		login.enterPassword("bangladesh");
 		
 		login.clickLogin();
-		System.out.println("This is new comment");
 		Thread.sleep(3000);
 
 
